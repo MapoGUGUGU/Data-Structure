@@ -1,2 +1,1 @@
-# Data-Structure
-Learning Data structure
+Types of data structure that i learnt
